@@ -1,6 +1,6 @@
 # Timegaze 🕗🌆
 
-Timegaze is a live, interactive web application that displays a digital clock against a backdrop that changes bewteen various backgrounds. Designed for simplicity and ease of use, Timegaze provides a calming and aesthetically pleasing way to keep track of time, suitable for use as a screensaver or a desktop background.
+Timegaze is a live, interactive web application that displays a digital clock against a backdrop that changes between various backgrounds. Designed for simplicity and ease of use, Timegaze provides a calming and aesthetically pleasing way to keep track of time, suitable for use as a screensaver or a desktop background.
 
 # Key Features
 
